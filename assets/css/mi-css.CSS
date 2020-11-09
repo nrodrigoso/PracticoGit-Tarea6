@@ -1,0 +1,61 @@
+#features{
+	background: url("images/bg-keyboard.jpeg");
+	font: Calibri;
+	font-size: 20px;
+	text-align: left;
+	padding-top: 40px;
+
+}
+
+#features p{
+	color: white;
+}
+
+#header{
+	background: black;	
+
+}
+#banner{
+	background: url("images/matrix.jpeg");
+	text-align: auto;
+
+}
+#mi-gif{
+	cursor: pointer;
+}
+
+#footer{
+	background: url("images/matrix.jpeg");
+	font-size: 20px;
+	font: Arial;
+	color: white;
+	
+
+}
+
+#nombre{
+	color: black;
+}
+
+#areaTexto{
+	color: black;
+
+}
+
+#footer p{
+	color: white;
+}
+#footer a{
+	color: white;
+
+}
+
+#copyright{
+	font: Verdana;
+	font-size: 18px;
+	color: white;
+	background: black;
+	border-width: 2px;
+	border-color: white;
+}
+
